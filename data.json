@@ -1,0 +1,22 @@
+[
+    {
+        "name": "mobile",
+        "price": 50000,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 5000,
+        "company": "apple"
+    },
+    {
+        "name": "earpod",
+        "price": 1000,
+        "company": "samsung"
+    },
+    {
+        "name": "mobile",
+        "price": 50000,
+        "company": "mi"
+    }
+]
